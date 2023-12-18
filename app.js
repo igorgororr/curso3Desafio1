@@ -1,2 +1,2 @@
 // Testante se da certo o repositório
-console.log(10000);
+console.log(100000);
