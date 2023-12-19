@@ -3,4 +3,4 @@ console.log(10000);
 // git pull origin main --allow-unrelated-histories
 // Apagar git reset --hard 
 // git commit --amend -m "novo nome"
-// Só para apagar
+// Só para apagar 2
